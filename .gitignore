@@ -1,0 +1,21 @@
+# بيئة Python الافتراضية
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# ملفات البيئة السرية — لا ترفعها أبداً على GitHub!
+.env
+.env.local
+.env.production
+
+# ملفات النظام
+.DS_Store
+Thumbs.db
+
+# ملفات IDE
+.idea/
+.vscode/
+*.swp
